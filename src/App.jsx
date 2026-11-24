@@ -95,19 +95,19 @@ const activities = [
   {
     eyebrow: 'Lãnh đạo & cộng đồng',
     title: 'Hugo English Club',
-    description: 'President of Hugo Scholars & Team Leader of Heroes Company.',
+    description: 'Team Leader of Heroes Company & Staff of Academic Department.',
     icon: Award,
   },
   {
     eyebrow: 'Chứng chỉ',
     title: 'IELTS 6.5',
-    description: 'Giao tiếp và đọc hiểu tài liệu chuyên ngành bằng tiếng Anh.',
+    description: 'Giao tiếp và đọc hiểu tài liệu bằng tiếng Anh.',
     icon: Sparkles,
   },
   {
-    eyebrow: 'Đổi mới sáng tạo',
+    eyebrow: 'Hội nhập quốc tế',
     title: 'Learning Express (LeX 9)',
-    description: 'Chương trình trao đổi đổi mới sáng tạo xã hội quốc tế tại DUT.',
+    description: 'Chương trình giao lưu, hội nhập quốc tế và giải quyết bài toán thực tiễn cùng sinh viên quốc tế tại DUT.',
     icon: Globe2,
   },
 ]
